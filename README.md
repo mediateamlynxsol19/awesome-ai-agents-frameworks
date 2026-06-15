@@ -119,7 +119,7 @@
 ---
 
 # NeuroNest AI Software Development Companion
-[![Awesome](https://neuronest.cc/)
+(https://neuronest.cc/)
 
 NeuroNest is an AI software development companion built to help developers write, test, debug, and improve code with a more efficient workflow. It supports AI-assisted coding, security review, DevOps automation, project planning, and technical research, making it a practical tool for teams building modern software solutions.
 
